@@ -82,3 +82,4 @@ Este proyecto es completamente **estático**, no necesita ningún servidor. Pued
 ## 💡 Licencia
 
 Este proyecto es libre de usar, modificar y personalizar para tus fines personales o comerciales.
+
